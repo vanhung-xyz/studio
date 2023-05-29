@@ -1,0 +1,8 @@
+C:\Users\nguyen van hung\source\repos\Hospital\Hospital1\bin\Debug\Hospital1.exe.config
+C:\Users\nguyen van hung\source\repos\Hospital\Hospital1\bin\Debug\Hospital1.exe
+C:\Users\nguyen van hung\source\repos\Hospital\Hospital1\bin\Debug\Hospital1.pdb
+C:\Users\nguyen van hung\source\repos\Hospital\Hospital1\obj\Debug\Hospital1.csproj.AssemblyReference.cache
+C:\Users\nguyen van hung\source\repos\Hospital\Hospital1\obj\Debug\Hospital1.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguyen van hung\source\repos\Hospital\Hospital1\obj\Debug\Hospital1.csproj.CoreCompileInputs.cache
+C:\Users\nguyen van hung\source\repos\Hospital\Hospital1\obj\Debug\Hospital1.exe
+C:\Users\nguyen van hung\source\repos\Hospital\Hospital1\obj\Debug\Hospital1.pdb
